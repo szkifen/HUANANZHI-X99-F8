@@ -1,4 +1,6 @@
 华南金牌X99-F8-BIOS
+BIOS来源：BIOS-iEngineer
+
 修改：
 1.锁定FSB 100MHz
 2.增加支持XMP（去开启XMP后然后设置内存频率）
@@ -10,4 +12,4 @@
 
 
 
-有问题可以去bilibili.com找我ID一样。
+bilibili.com   -szkifen
